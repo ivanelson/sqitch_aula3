@@ -5,3 +5,5 @@
 schema_escola 2016-02-25T14:24:43Z Ivan Nunes <ivan.nunes@iv4n.com> # Cria um schema escola no banco de dados
 aluno 2016-02-25T14:42:28Z Ivan Nunes <ivan.nunes@iv4n.com> # Cria tabela de aluno
 @1.0.0-4544 2016-02-25T14:59:49Z Ivan Nunes <ivan.nunes@iv4n.com> # Tag para aluno e esquema escola
+
+matricula [aluno schema_escola] 2016-02-25T15:09:13Z Ivan Nunes <ivan.nunes@iv4n.com> # Criar tabela de matricula dos alunos
